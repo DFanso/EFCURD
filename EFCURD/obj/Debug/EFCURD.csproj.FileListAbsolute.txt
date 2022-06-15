@@ -1,0 +1,16 @@
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.exe.config
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.exe
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.pdb
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.AssemblyReference.cache
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.SuggestedBindingRedirects.cache
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.Form1.resources
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.Properties.Resources.resources
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.GenerateResource.cache
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.CoreCompileInputs.cache
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.exe
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.pdb
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.dll
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.xml
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.CopyComplete
