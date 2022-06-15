@@ -14,3 +14,7 @@ D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServe
 D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.xml
 D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServer.xml
 D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.CopyComplete
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.exe.manifest
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.application
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.exe.manifest
+D:\Bellvantage\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.application
